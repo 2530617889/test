@@ -1,3 +1,6 @@
+/**
+ * 现在，我第一次在前面加了三行
+**/
 module test(ge,shi,zubie1,zuhao1,clock,deng1,deng2,deng3,deng4,reset,ok,stop,add,k1,k2,k3,k4,clk4,lcd_rs,lcd_en,lcd_rw,lcd_data);
 	input reset,ok,stop,add,k1,k2,k3,k4,clk4;
 	
